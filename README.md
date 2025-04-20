@@ -10,3 +10,14 @@
        ├── index.html
        ├── styles.css
        └── app.js
+
+
+# Project Submissions Repository
+
+Welcome to the submission repo! This is where selected contributors will push their project code based on the provided Figma design.
+
+## 🧾 Instructions
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/submissions.git
